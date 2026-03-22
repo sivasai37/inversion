@@ -41,6 +41,6 @@ public class Main {
     public static void main(String[] args) {
         int[] arr = {8, 4, 2, 1};
         int inversionCount = countInversions(arr);
-        System.out.println("Inversion Count: " + inversionCount);
+        System.out.println("Inversion Count::: " + inversionCount);
     }
 }
